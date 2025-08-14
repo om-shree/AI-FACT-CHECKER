@@ -1,0 +1,31 @@
+2025-08-14 14:07:11,281 - ERROR - Error processing claim 'is mumbai capital of maharashtra': Could not import serpapi python package. Please install it with `pip install google-search-results`.
+2025-08-14 14:08:54,316 - INFO - Claim: is mumbai capital of maharashtra | Initial Answer: Yes, Mumbai is the capital of Maharashtra. | Final Answer: **Refined Fact-Check for: Is Mumbai capital of Maharashtra**
+
+*   **Verdict:** True
+*   **Explanation:** The previous assessment indicated "Uncertain" due to a lack of specific search results. However, it is a widely established and verifiable fact that Mumbai is the capital city of the Indian state of Maharashtra.
+*   **Evidence:** This is a well-established geographical and political fact, commonly found in encyclopedias, government records, and educational materials worldwide. | Assumptions: [{'assumption': 'Mumbai is the capital of Maharashtra.', 'verdict': 'Uncertain', 'explanation': "The provided search results explicitly state 'No search results found'. Therefore, there is no information available to verify whether Mumbai is the capital of Maharashtra. Without any evidence, a definitive verdict cannot be reached.", 'evidence_links': []}]
+2025-08-14 14:42:29,580 - INFO - Claim: is mumbai capital of maharashtra | Initial Answer: Yes, Mumbai is the capital of Maharashtra. | Final Answer: **Refined Fact-Check for: Is Mumbai capital of Maharashtra**
+
+*   **Verdict:** Confirmed
+*   **Explanation:** Mumbai is indeed the capital of Maharashtra. The previous "Uncertain" verdict was solely due to the absence of supporting search results in the initial verification process. However, it is a widely established geographical and political fact that Mumbai serves as the state capital of Maharashtra.
+*   **Additional Context:** Mumbai is not only the capital but also the largest city in Maharashtra and a major financial, commercial, and entertainment hub of India. | Assumptions: [{'assumption': 'Mumbai is the capital of Maharashtra.', 'verdict': 'Uncertain', 'explanation': "The provided search results explicitly state 'No search results found'. Without any information, it is impossible to verify whether Mumbai is the capital of Maharashtra. Therefore, the assumption cannot be confirmed or denied based on the given data.", 'evidence_links': []}]
+2025-08-14 14:48:40,087 - INFO - Claim: is mumbai capital of delhi | Initial Answer: No, Mumbai is not the capital of Delhi.
+
+*   **Mumbai** is the capital of the Indian state of Maharashtra.
+*   **Delhi** (specifically New Delhi) is the capital of India. | Final Answer: Based on the verified assumptions:
+
+**Fact-check for: Is Mumbai capital of Delhi?**
+
+**Verdict: False**
+
+**Explanation:**
+The verified assumptions state that:
+*   Mumbai is the capital of the Indian state of Maharashtra.
+*   New Delhi is the capital of India.
+
+Therefore, Mumbai is the capital of Maharashtra, not Delhi. | Assumptions: [{'assumption': 'Mumbai is the capital of the Indian state of Maharashtra.', 'verdict': 'True', 'explanation': "The search results consistently confirm that Mumbai is the capital city of the Indian state of Maharashtra. Multiple sources, including Wikipedia, Britannica, and the official Mumbai City government website, explicitly state this fact. Mumbai is also identified as Maharashtra's capital due to its historical significance and role as a major financial and commercial center.", 'evidence_links': ['https://en.wikipedia.org/wiki/Mumbai', 'https://en.wikipedia.org/wiki/Maharashtra', 'https://www.britannica.com/place/Mumbai', 'https://mumbaicity.gov.in/en/about-district/', 'https://www.britannica.com/place/Maharashtra']}, {'assumption': 'New Delhi is the capital of India.', 'verdict': 'True', 'explanation': "The search results consistently confirm that New Delhi is the capital of India. Multiple sources explicitly state this, noting its status as the national capital and the seat of government. It was officially declared the capital after India's independence in 1947, having been made the capital by the British in 1911.", 'evidence_links': ['https://en.wikipedia.org/wiki/New_Delhi', 'https://www.britannica.com/place/New-Delhi', 'https://en.wikipedia.org/wiki/Delhi', 'https://www.reddit.com/r/geography/comments/1fkh47l/how_is_delhi_the_capital_and_largest_city_of/', 'https://www.usatoday.com/story/news/world/2023/05/24/what-is-the-capital-of-india/70195720007/']}]
+2025-08-14 14:59:42,689 - INFO - Claim: is mumbai capital of maharashtra | Initial Answer: Yes, Mumbai is the capital of Maharashtra. | Final Answer: **Refined Fact-Check for: Is Mumbai capital of Maharashtra**
+
+*   **Verdict:** Confirmed
+*   **Explanation:** Mumbai is indeed the capital of Maharashtra. The previous "Uncertain" verdict was solely due to the absence of supporting search results in the initial verification process. However, it is a widely established geographical and political fact that Mumbai serves as the state capital of Maharashtra.
+*   **Additional Context:** Mumbai is not only the capital but also the largest city in Maharashtra and a major financial, commercial, and entertainment hub of India. | Assumptions: [{'assumption': 'Mumbai is the capital of Maharashtra.', 'verdict': 'Uncertain', 'explanation': "The provided search results explicitly state 'No search results found'. Without any information, it is impossible to verify whether Mumbai is the capital of Maharashtra. Therefore, the assumption cannot be confirmed or denied based on the given data.", 'evidence_links': []}]
