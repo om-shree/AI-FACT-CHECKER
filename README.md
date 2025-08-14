@@ -75,7 +75,7 @@ streamlit run src/ui/streamlit_app.py
 ## 📸 Screenshots
 
 **Home Interface (Streamlit)**  
-![Streamlit Home](assets\image3.png)
+![Streamlit Home](assets/image3.png)
 
 **Fact Verification Example**  
 ![Fact Check Example](assets/image2.png)
@@ -95,5 +95,6 @@ Integration with social media APIs for real-time claim detection
 
 
   
+
 
 
